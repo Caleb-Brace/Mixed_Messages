@@ -19,5 +19,5 @@ for (let value in foodChoice) {
 }
     
 
-console.log(`Your meal plan for the day is: "${mealDecision}" `)
+console.log(`Your meal plan for today is: "${mealDecision}" `)
 
